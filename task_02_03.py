@@ -23,3 +23,6 @@ elif month in summer:
     print(f'Выбранный месяц летний')
 elif month in autumn:
     print(f'Выбранный месяц осенний')
+
+
+
