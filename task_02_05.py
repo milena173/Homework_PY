@@ -16,4 +16,3 @@ else:
                 my_list_copy.insert(my_list.index(y), x)
                 break
 print(my_list_copy)
-
